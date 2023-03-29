@@ -45,23 +45,3 @@
     background-color: rgb(11, 216, 73);
     border-radius: 10px;
 }
-/* @media screen and (max-width:600px){
-    body{
-        width: 100%;
-    }
-}
-@media screen and (max-width:300px){
-    body{
-        width: 75%;
-    }
-}
-@media screen and (max-width:200px){
-    body{
-        width: 50%;
-    }
-}
-@media screen and (min-width:100px){
-    .container{
-        width: 33%;
-    }
-} */
